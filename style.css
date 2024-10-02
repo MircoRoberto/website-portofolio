@@ -6,7 +6,6 @@
     font-family: 'Poppins', sans-serif;
 }
 header {
-    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -18,7 +17,7 @@ header {
 }
 .logo {
     width: 100px; /* Sesuaikan ukuran logo */
-    margin-left: 500px; /* Pastikan logo berada di tengah sebelum menu */
+    margin-right: 500px; /* Pastikan logo berada di tengah sebelum menu */
     display: block;
     margin-left: auto; /* Untuk memusatkan logo */
 }
