@@ -17,8 +17,10 @@ header {
     z-index: 100;
 }
 .logo {
-    width: 70px;
-    height: 60px;
+    width: 100px; /* Sesuaikan ukuran logo */
+    margin-right: 500px; /* Pastikan logo berada di tengah sebelum menu */
+    display: block;
+    margin-left: auto; /* Untuk memusatkan logo */
 }
 .logo span {
     color: #7d2ae8;
@@ -30,7 +32,7 @@ header {
     font-size: 1.1em;
     color: #555;
     text-decoration: none;
-    margin-right: 40px;
+    margin-right: 100px;
     font-weight: 500;
     transition: .3s;
 }
