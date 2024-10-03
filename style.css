@@ -17,12 +17,12 @@ header {
     z-index: 100;
 }
 .logo {
-    position: fixed;
+    
     width: 100px; /* Sesuaikan ukuran logo */
     margin-right: 500px; /* Pastikan logo berada di tengah sebelum menu */
     display: fixed;
     margin-left: auto; /* Untuk memusatkan logo */
-    z-index: 1000; 
+   
 }
 .logo span {
     color: #7d2ae8;
@@ -44,9 +44,6 @@ header {
 }
 
 .btn-talk {
-    positio: fixed;
-    top: fixed;
-    right: fixed;
     color: #fff;
     text-decoration: none;
     padding: 8px 35px;
@@ -55,7 +52,7 @@ header {
     border: 2px solid #7d2ae8;
     font-weight: 450;
     transition: .3s;
-    z-index: 1000;
+   
 }
 .btn-talk:hover {
     color: #7d2ae8;
