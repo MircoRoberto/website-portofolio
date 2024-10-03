@@ -152,7 +152,7 @@ header {
     width: 250px; /* Tentukan ukuran kontainer skill */
 }
 .skill img {
-    width: 100%;
+    width: 100px;
     height: 200px; /* Tentukan tinggi gambar */
     object-fit: cover; /* Untuk memastikan gambar menyesuaikan dengan proporsional */
     border-radius: 8px;
